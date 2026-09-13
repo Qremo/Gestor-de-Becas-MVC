@@ -1,4 +1,4 @@
-# Actividad 2.1: Implementación de la Capa Modelo (MVC) - Gestor de Becas
+# Actividad 2.1:  Diseño e Implementación de Modelos(Clases) - Gestor de Becas
 
 ## Información General
 * **Materia:** Programación Orientada a Eventos
