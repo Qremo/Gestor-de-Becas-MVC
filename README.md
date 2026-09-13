@@ -14,7 +14,7 @@
 ## Descripción del Proyecto
 Este repositorio contiene la implementación exclusiva de la **Capa Modelo (Model)** para el sistema de gestión de becas, desarrollada bajo el patrón de arquitectura software MVC (Modelo-Vista-Controlador) en C# con Windows Forms.
 
-Las clases representan las entidades del dominio de negocio aisladas completamente de la interfaz gráfica de usuario, aplicando principios fundamentales de la Programación Orientada a Objetos (POO) como encapsulamiento estricto, ocultamiento de información, sobrecarga de constructores y sobrecarga de métodos de negocio.
+Las clases representan las entidades del dominio de negocio aisladas completamente de la interfaz gráfica de usuario, aplicando principios fundamentales de la Programación Orientada a Eventos (POE) como encapsulamiento estricto, ocultamiento de información, sobrecarga de constructores y sobrecarga de métodos de negocio.
 
 
 
