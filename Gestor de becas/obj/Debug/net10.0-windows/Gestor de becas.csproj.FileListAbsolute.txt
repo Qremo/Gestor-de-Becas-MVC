@@ -3,7 +3,6 @@ C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\bin\Debug\net10.0-win
 C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\bin\Debug\net10.0-windows\Gestor de becas.runtimeconfig.json
 C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\bin\Debug\net10.0-windows\Gestor de becas.dll
 C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\bin\Debug\net10.0-windows\Gestor de becas.pdb
-C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\obj\Debug\net10.0-windows\Gestor_de_becas.Form1.resources
 C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\obj\Debug\net10.0-windows\Gestor de becas.csproj.GenerateResource.cache
 C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\obj\Debug\net10.0-windows\Gestor de becas.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\obj\Debug\net10.0-windows\Gestor de becas.AssemblyInfoInputs.cache
@@ -14,3 +13,5 @@ C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\obj\Debug\net10.0-win
 C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\obj\Debug\net10.0-windows\Gestor de becas.pdb
 C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\obj\Debug\net10.0-windows\Gestor de becas.genruntimeconfig.cache
 C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\obj\Debug\net10.0-windows\ref\Gestor de becas.dll
+C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\obj\Debug\net10.0-windows\Gestor_de_becas.FrmPrincipal.resources
+C:\Users\USER\source\repos\Gestor de becas\Gestor de becas\obj\Debug\net10.0-windows\Gestor d.26044BB8.Up2Date
